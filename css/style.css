@@ -1,0 +1,18 @@
+.fondo1{
+    color: whitesmoke;
+    background-color: #00052b;
+}
+.fondo{
+    color: rgb(255, 255, 255);
+    background-color: rgb(15, 161, 113);
+}
+
+.boton{
+  color: rgb(255, 255, 255);
+  background-color: rgb(31, 80, 64);
+}
+
+a{
+padding:5px 10px;
+color: white;
+}
